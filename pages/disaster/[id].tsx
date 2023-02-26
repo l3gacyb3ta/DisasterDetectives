@@ -6,10 +6,10 @@ import { hash } from "../../lib/hash";
 interface DisasterProps {
   disaster: Disaster;
 }
-
+//Add title and colors....
 const Disaster: NextPage<DisasterProps> = ({ disaster }) => {
   return (
-    <main className="flex w-full flex-1 flex-col items-center justify-center px-20">
+    <main className={"flex w-2/3 flex-1 flex-col items-center justify-center px-20 " + disaster.id} >
       <h1 className="text-4xl font-bold m-10 underline">
         {disaster.name}
       </h1>
@@ -43,11 +43,17 @@ const Disaster: NextPage<DisasterProps> = ({ disaster }) => {
         What Can You Do?
       </h2>
 
-      <p className="text-left m-4">
+      <ul className="list-disc float-left">
         {
-          disaster.action
+          disaster.action.split("|").map(
+            (item) => (
+              <li key={hash(item)} className="text-left m-2">
+                {item}
+              </li>
+            )
+          )
         }
-      </p>
+      </ul>
     </main>
   )
 }

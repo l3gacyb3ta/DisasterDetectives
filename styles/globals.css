@@ -9,4 +9,9 @@
     padding: theme('spacing.6');
     box-shadow: theme('boxShadow.xl');
   }
+  .background {
+    color: theme('colors.pastel-red');
+    background-color: theme('colors.perpetual-pink');
+  }
+  
 }
