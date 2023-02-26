@@ -1,6 +1,7 @@
 import disasters from "../../data/naturaldisasters.json"
 import { GetStaticProps, GetStaticPaths, NextPage } from 'next'
 import { Disaster } from "../../types/disaster";
+import { hash } from "../../lib/hash";
 
 interface DisasterProps {
   disaster: Disaster;
@@ -30,7 +31,7 @@ const Disaster: NextPage<DisasterProps> = ({ disaster }) => {
         {
           disaster.signs.split("|").map(
             (item) => (
-              <li className="text-left m-2">
+              <li key={hash(item)} className="text-left m-2">
                 {item}
               </li>
             )
