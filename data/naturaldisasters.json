@@ -1,0 +1,50 @@
+[
+  {
+    "id": "tornado",
+    "name": "Tornadoes",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/F5_tornado_Elie_Manitoba_2007.jpg/1600px-F5_tornado_Elie_Manitoba_2007.jpg",
+    "description": "A tornado is a violently rotating column of air that is in contact with both the surface of the Earth and a cumulonimbus cloud or, in rare cases, the base of a cumulus cloud. Skies will often appear dark and often grayish-greenish clouds will form. A tornado is a narrow, violently rotating column of air that extends from a thunderstorm to the ground. Tornados are more common in the United States than any other Country in the world.",
+    "signs": "Large hail, clouds of debris, funnel clouds, and roaring noises. Most places have a siren to alert residents that a tornado has touched down.",
+    "action": "During the tornado the first thing you should do is seek shelter. Home with a basement?  The interior part is the safest place to take shelter.  If you’re able to, get under something sturdy. (Ex. heavy table). |No basement or storm cellar? Look for an interior room in your home with no windows. (Ex. bathroom). IT IS IMPORTANT TO STAY LOW TO THE FLOOR OF YOUR HOME. |Outside or not home? Seek shelter in a designated shelter or nearby sturdy building. |If there is NO SAFE BUILDING around, lay flat in a low spot on the ground and use your arms to protect your head and neck."
+  },
+  {
+    "id": "hurricane",
+    "name": "Hurricane",
+    "picture": "https://access-ci.org/wp-content/uploads/2023/02/hurricane-from-space.jpg",
+    "description": "Also known as a tropical cyclone or Typhoon. A hurricane is a rapidly rotating storm system characterized by a low-pressure center, a closed low-level atmospheric circulation, strong winds, and a spiral arrangement of thunderstorms that produce heavy rain and squalls.",
+    "signs": "Heavy Rainfall  begins falling around 18 hours ahead of the storm worsening as it gets closer to land leading to floods. |Ocean Swells are typical before a  hurricane hits and can rise to over 10 feet, with waves hitting the shore every nine seconds, which will grow as the storm approaches. | Increased Wind Speed at around 11 mph and can increase to more than 100mph. Debris flies around as a result. |Checking Weather reports can show you geological patterns and whether you are in an area directly targeted by a hurricane.| Look at Flag Warnings. Hurricane maritime flags are Two square red flags with black center, one above the other. If these signs appear, there is a hurricane in the area and proceed with extreme precaution.",
+    "action": "Grab your emergency supply kit and only take what you really need with you (cell phone, chargers, medicines, identification like a passport or license, and cash). If you have time, turn off the gas, electricity, and water. Follow the roads that emergency workers recommend even if there’s traffic.Other routes might be blocked or flooded. Never drive through flooded areas—cars and other vehicles can be swept away or may stall in just 6 inches of moving water. Contact your local emergency management office and ask if they offer accommodations for owners and their pets."
+  },
+  {
+    "id": "volcano",
+    "name": "Volcanoes",
+    "picture": "https://cdn.britannica.com/34/231234-050-5B2280BB/volcanic-eruption-Antigua-Guatemala-volcano.jpg",
+    "description": "A volcanic eruption is when lava and gas are released from a volcano—sometimes explosively.Volcano eruptions are less frequent, but deadly when they occur and can create global scale severe climate change that would have catastrophic consequences.",
+    "signs": "Noticeable steaming or fumarolic activity ( openings on Earth’s surface that support the prediction of volcanic gasses such as sulfur dioxide and carbon dioxide),  and new or enlarged areas of hot ground. Subtle swelling of the ground surface. Small changes in heat flow.",
+    "action": "Make a medical supply kit for an emergency. For instance, bandages, gloves, antiseptic cream, disinfecting wipes, and ideally disposable breathing masks and goggles. Put on a long-sleeved shirt and pants.  This will lessen the quantity of ash that comes into contact with your skin and cause irritation. Until the ash settles, stay inside unless there is a risk of a roof collapsing. When the ash has settled, moving about will be simpler, but especially if it starts to rain, be cautious that ash can grow quite heavy. Try to keep an eye on how much ash is on your rooftop and plan to remove it if it gets too much. Store non-perishables: Non-perishables are necessary since they provide you with food in the case of isolation or a power outage."
+  },
+  {
+    "id": "earthquake",
+    "name": "Earthquakes",
+    "picture": "https://www.aljazeera.com/wp-content/uploads/2023/02/AP23039537273147.jpg?resize=770%2C513&quality=80",
+    "description": "A sudden and violent shaking of the ground, sometimes causing great destruction, as a result of movements within the earth's crust or volcanic action.Earthquakes are caused by the breaking and shifting of rocks beneath the earth’s surface. They can be unpredictable.",
+    "signs": "Sudden large jolts quickly followed by more strong shaking. Sudden water level changes (beaches)",
+    "action": "During an earthquake: |Inside a building? Drop to the ground and take cover under something sturdy. (ex. Table or desk). |Then use one hand to hold the object and the other to protect your head and neck. |Nothing sturdy nearby?Crouch down near the interior wall.STAY INDOORS UNTIL THE SHAKING STOPS AND YOU’RE SURE IT’S SAFE TO EXIT. |Outside in the wilderness?Find a clear spot away from buildings, trees, streetlights, and powerlines. Get on the ground and stay there till the  shaking stops. |Inside of a car?Stay inside of the car. Allow your guardian to pull over to a clear location. Keep your seatbelt fastened until the shaking stops."
+  },
+  {
+    "id": "wildfire",
+    "name": "Wildfires",
+    "picture": "https://cdn.britannica.com/90/191790-050-092C8C2A/Wildfire-Stanislaus-National-Forest-California-2013.jpg",
+    "description": "A wildfire, forest fire, bushfire, wildland fire or rural fire is an unplanned, uncontrolled and unpredictable fire in an area of combustible vegetation.",
+    "signs": "A wildfire is an uncontrolled fire often occurring in areas like forests, fields, or even parks. These fires can go unnoticed and spread very quickly. Smoke and ash can cause burns and injuries; eye, nose, throat and lung irritation; decreased lung function, including coughing and wheezing; pulmonary inflammation, bronchitis, exacerbations of asthma, and other lung diseases; exacerbation of cardiovascular diseases, such as heart failure. Infants, young child, women who are pregnant, and older adults are more susceptible to health impacts from smoke and ash, which are important air pollutants",
+    "action": "During a wildfire it is important to stay informed. Listen to local tv stations and radio. They will provide the safest route to evacuate. |Have to evacuate? Wear protective clothing (ex. Sturdy shoes, long pants, long sleeved shirts, and gloves. |See Smoke? Keep away! Smoke can cause breathing problems and contain poisonous toxins."
+  },
+  {
+    "id": "other",
+    "name": "Other",
+    "picture": "https://static01.nyt.com/images/2020/02/06/climate/06CLI-LIGHTNING/06CLI-LIGHTNING-superJumbo.jpg",
+    "description": "Any other natural disaster that isn't listed.",
+    "signs": "Signs include: Sudden increase or decrease in temperature, extreme change in wind patterns, and/or unexpected weather patterns (Ex: Snow in a typically sunny region or heavy amounts of rain in central cities.)",
+    "action": "Prepare an emergency supply kit with medical supplies. Ex: Bandaids, Gloves, disinfectant wipes, antiseptic cream, and masks. |Keep non-perishable items stored: Non perishables are essential as they give you a food source in the event of isolation/power outage Ex: Bottled water, Canned foods( meats, fruits, vegetables, instant meals, Dry cereal. |Note down all emergency contacts into all devices and keep all important documents such as personal identification. |Cover all windows and doors, fill water containers, turn off power, and always be ready to leave. You never know when you will need to be evacuated to a safer location. |If a Natural Disaster is coming, you may hear an order from authorities to evacuate (leave your home). Never ignore an order to evacuate. It is also important that you follow the routes given to you for evacuation by emergency services so you ensure the safety of yourself and the people around you. |When leaving: Grab your emergency supply kit and only take what you really need with you (cell phone, chargers, medicines, identification like a passport or license, and cash). |Make sure you know all routes to safely get out of your neighborhood. |Keep radios or other forms with the outside world on because you never know if something has changed within the current situation. |Contact your local emergency management office and ask if they offer accommodations for owners and their pets."
+  }
+]
